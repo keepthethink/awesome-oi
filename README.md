@@ -7,6 +7,12 @@ A curated list of awesome Olympiad in Informatics Learning Materials, Online Jud
   - [Online Judge](#online-judge)
   - [Blog](#blog)
   
+## Learning Materials
+
+## Online Judge
+
+## Blog
+
 ## License
 
 ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
