@@ -9,7 +9,12 @@ A curated list of awesome Olympiad in Informatics Learning Materials, Online Jud
   
 ## Learning Materials
 
+- [OI-Wiki](https://oi-wiki.org/)
+- [逐月](https://www.seekluna.com/)
+
 ## Online Judge
+
+- [Luogu](https://luogu.org)
 
 ## Blog
 
